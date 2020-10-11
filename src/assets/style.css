@@ -1,0 +1,5 @@
+@import url('../../node_modules/bootstrap/dist/css/bootstrap.min.css');
+
+main{
+    min-height: calc(100vh - 64px - 88px) ;
+}
