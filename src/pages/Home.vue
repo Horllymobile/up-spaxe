@@ -1,7 +1,9 @@
 <template>
 <div class="container">
     <app-search-input></app-search-input>
-
+        <div class="container">
+            
+        </div>
     <app-category></app-category>
 </div>
 </template>

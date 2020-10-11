@@ -6,7 +6,7 @@
     <main>
         <router-view></router-view>
     </main>
-    <footer>
+    <footer class=" bg-dark">
         <app-footer></app-footer>
     </footer>
 </div>
